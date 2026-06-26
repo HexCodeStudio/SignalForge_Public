@@ -27,7 +27,7 @@ draft message, rationale, and safeguard checklist. It never sends automatically.
 
 ## Architecture
 
-![SignalForge Architecture](docs/signalforge_architecture.svg)
+![SignalForge Architecture](signalforge_architecture.svg)
 
 The pipeline runs in five stages:
 
