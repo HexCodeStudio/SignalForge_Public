@@ -1,5 +1,5 @@
 # SignalForge Public 
- SignalForge is under active development in a private repo.
+ **SignalForge is under active development in a private repo.**
 
 > AI lead intelligence platform for fractional technical leaders.  
 > Monitors startup companies, scores technical inflection points, and surfaces 
